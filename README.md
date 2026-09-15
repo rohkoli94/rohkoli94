@@ -1,13 +1,17 @@
-👋 Hi, I’m ROHIT KOLI — Software Engineer focused on Generative AI & AI Engineering
+# Hi, I'm Rohit 👋
 
-🤖 I’m passionate about Generative AI, Agentic AI, RAG, LLM Applications & AI Systems
+**Software Engineer | Generative AI | RAG | Agentic AI**
 
-🏗️ I enjoy building production-ready AI solutions that solve real-world business problems
+Software Engineer with 8+ years of experience in software development, currently focused on building **production-oriented GenAI, RAG, and Agentic AI applications**.
 
-🧠 I’m interested in Multimodal RAG, AI Agents, Hybrid Retrieval, Vector Databases & LLM Evaluation
+🚀 Building enterprise AI solutions with **Python, LangChain, LangGraph, Qdrant, LLMs, and FastAPI**.
 
-💻 Strong foundation in Backend Engineering, APIs, Cloud & System Design
+🔹 Interested in **AI Engineer / Forward Deployed Engineer** opportunities  
+🔹 Building practical, production-focused AI projects  
+🔹 Exploring **LLM applications, RAG, Agentic AI, and AI system design**
 
-🚀 Currently building Enterprise AI systems that turn complex business data into reliable, grounded insights
+### Featured Project
 
+**[ContextOps — Enterprise RAG & Agentic AI Platform](https://github.com/rohkoli94/contextops-enterprise-policy-intelligence)**
 
+A production-oriented platform for enterprise document intelligence, hybrid retrieval, grounded answers, and agentic workflows.
