@@ -1,17 +1,29 @@
 # Hi, I'm Rohit 👋
 
-**Software Engineer | Generative AI | RAG | Agentic AI**
+### AI Engineer | Generative AI | RAG | Agentic AI | LLM Applications
 
-Software Engineer with 8+ years of experience in software development, currently focused on building **production-oriented GenAI, RAG, and Agentic AI applications**.
+Software Engineer with **7.5+ years of experience** building enterprise software, now focused on designing and building **production-oriented Generative AI and Agentic AI systems**.
 
-🚀 Building enterprise AI solutions with **Python, LangChain, LangGraph, Qdrant, LLMs, and FastAPI**.
+🚀 **Building enterprise GenAI solutions** using Python, LLMs, RAG, Agentic AI, LangChain, LangGraph, Qdrant and FastAPI.
 
-🔹 Interested in **AI Engineer / Forward Deployed Engineer** opportunities  
-🔹 Building practical, production-focused AI projects  
-🔹 Exploring **LLM applications, RAG, Agentic AI, and AI system design**
+🧠 **Focused on AI Engineering:**  
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & AI Agents
+- LLM Applications
+- Hybrid Retrieval & Reranking
+- Multimodal AI
+- LLM Evaluation & Observability
+- AI Guardrails & Prompt Injection Protection
+- LLM / Provider Abstraction
+- AI System Design
 
-### Featured Project
+🏗️ **Featured Project — ContextOps**  
+An enterprise **RAG & Agentic AI platform** designed and built from scratch for document intelligence, hybrid retrieval, grounded answers and agentic workflows.
 
-**[ContextOps — Enterprise RAG & Agentic AI Platform](https://github.com/rohkoli94/contextops-enterprise-policy-intelligence)**
+🔗 [ContextOps — Enterprise RAG & Agentic AI Platform](https://github.com/rohkoli94/contextops-enterprise-policy-intelligence)
 
-A production-oriented platform for enterprise document intelligence, hybrid retrieval, grounded answers, and agentic workflows.
+💡 Interested in **AI Engineer / Forward Deployed Engineer** opportunities where I can build practical, production-focused AI systems that solve real business problems.
+
+### Tech I work with
+
+**Python | LLMs | RAG | Agentic AI | LangChain | LangGraph | Qdrant | FastAPI | Langfuse | Microsoft Foundry | Docker | Java | Spring Boot**
